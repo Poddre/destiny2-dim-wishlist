@@ -41,7 +41,7 @@ The_Palindrome(Smallbore, Ricochet_Rounds, Outlaw, Rampage)
 
 //notes:Poddre's List - DPS Version
 Code_Duello(
-Impact_Casing
+Impact_Casing,
 any_of(Auto_Loading_Holster, Impulse_Amplifier),
 Lasting_Impression
 )
