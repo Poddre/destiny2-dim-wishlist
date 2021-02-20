@@ -1,6 +1,7 @@
 title:Poddre's DIM Wishlist
 
-//notes:Range MW
+//Season 13
+//notes:Poddre's List - Range MW
 dimwishlist:item=1097616550&perks=839105230,3142289711,1168162263,4104185692
 
 dimwishlist:item=1097616550&perks=839105230,3142289711,3643424744,4104185692
@@ -26,29 +27,74 @@ dimwishlist:item=1097616550&perks=3661387068,106909392,1168162263,4104185692
 dimwishlist:item=1097616550&perks=3661387068,106909392,3643424744,4104185692
 
 
-//notes:From Mercules904
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=3460122497&perks=951095735
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=2121785039&perks=4104185692
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=2633186522&perks=4252909580
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=893527433&perks=706527188,47981717
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=1402766122&perks=2360754333
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=679281855&perks=1754714824
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=1313528549&perks=2396489472
 
+//notes:Poddre's List (From Mercules904)
 dimwishlist:item=2448907086&perks=951095735,2396489472
 dimwishlist:item=2448907086&perks=951095735,3927722942
 
 
-//notes:Smallbore is optional
+//notes:Poddre's List - Smallbore is optional
 dimwishlist:item=432476743&perks=1482024992,1885400500,1168162263,3425386926
 
+//notes:Poddre's List - DPS Version
+dimwishlist:item=2496242052&perks=3796465595
+3300816228,3927722942
+
+dimwishlist:item=2496242052&perks=951095735,3927722942
+
+
+//notes:Poddre's List - Room Clearing Version
+dimwishlist:item=2496242052&perks=1441682018,2822142346,951095735,2396489472
+
+
 //Future add: Dead Man's Tale w/ Ricochet_Rounds, Outlaw, Hand_Laid_Stock
+
+//-----------------------------------------------------------------------
+//Season 12
+
+dimwishlist:item=42351395&perks=2010801679,2396489472
+
+//notes:Poddre's List (PvE)
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
+
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1546637391
+
+
+//notes:Poddre's List (PvP)
+dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887
+
+//notes:Poddre's List (PvE)
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3425386926
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3523296417
+
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3425386926
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3523296417
+
+
+//notes:Poddre's List (PvP)
+dimwishlist:item=3281285075&perks=839105230,3142289711,2450788523,47981717
+dimwishlist:item=3281285075&perks=839105230,3142289711,2450788523,3425386926
+
 
 //-----------------------------------------------------------------------
 
