@@ -1,48 +1,39 @@
-title:My personal wishlist
+title:Poddre's DIM Wishlist
 
-//notes:Super stable kinetic sniper rifle
-Dreaded_Venture(Arrowhead_Brake, Tactical_Mag, Triple_Tap, Rapid_Hit)
+//notes:Range MW
+Extraordinary_Rendition(
+	any_of(Arrowhead_Brake,Corkscrew_Rifling,Chambered_Compensator),
+	any_of(Accurized_Rounds,Tactical_Mag),
+	any_of(Outlaw,Overflow),
+	any_of(Frenzy)
+)
 
-Jack_Queen_King_3(
-	any_of(Subsistence, Demolitionist),
-	Dragonfly)
+//notes:From Mercules904
+Imperial_Needle(Impulse_Amplifier)
 
-Patron_of_Lost_Causes(Rapid_Hit, Explosive_Payload)
+Brass_Attacks(Frenzy)
 
-Last_Hope(
-	any_of(Feeding_Frenzy, Rangefinder),
-	any_of(Multikill_Clip, Rampage))
+Shadow_Price(Bottomless_Grief)
 
-Breachlight(
-	Vorpal_Weapon,
-	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
+Far_Future(Quickdraw, Opening_Shot)
 
-//notes:Minor/major add clear
-Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)
+Retrofuturist(Trench_Barrel)
 
-//notes:Boss damage
-Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
+Exile_s_Curse(Kickstart)
 
-//notes:Lots of ammo for warlock skating
-Sword(Enduring_Blade)
+Sola_s_Scar(Chain_Reaction)
 
-//notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
-Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
+Royal_Entry(
+	Impulse_Amplifier,
+	any_of(Chain_Reaction, Lasting_Impression)
+)
 
-//notes:Zenobia-D substitute
-Royal_Entry(Volatile_Launch,
-    any_of(Alloy_Casing, Black_Powder, High_Velocity_Rounds),
-    Field_Prep,
-    any_of(Cluster_Bomb, Chain_Reaction, Lasting_Impression))
+//notes:Smallbore is optional
+The_Palindrome(Smallbore, Ricochet_Rounds, Outlaw, Rampage)
 
-//notes:No Turning Back substitute
-Biting_Winds(
-    any_of(High_Tension_String, Natural_String, Tactile_String, Polymer_String),
-    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
-    any_of(Quickdraw, Rapid_Hit),
-    any_of(Explosive_Head, Sympathetic_Arsenal))
+//Future add: Dead Man's Tale w/ Ricochet_Rounds, Outlaw, Hand_Laid_Stock
 
-//notes:For occasional short-range damage bursts in kinetic slot 
-Toil_and_Trouble(2117683199, Auto_Loading_Holster)
+//-----------------------------------------------------------------------
 
+//Add in Normal DIM wishlist
 include(`sources/voltron.txt')
